@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"color_data": {
+		"value1": "red",
+		"value2": {
+			"some_color": [
+				"yellow",
+				"green"
+			],
+			"other_color": "red"
+		},
+		"value3": [
+			"blue",
+			"red",
+			{
+				"nested_value": "green"
+			}
+		]
+	}
+}
